@@ -1,36 +1,28 @@
-# Mongo Db
+# MongoDB Practice
 
-MongoDB practice repository for JavaScript database workflows.
+MongoDB and Mongoose practice for JavaScript database workflows.
 
-## Overview
+## Purpose
 
-This is a Learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Database-backed web apps need schemas, queries, and integration with server routes. This repository practices MongoDB/Mongoose concepts in JavaScript/Express-style examples.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- MongoDB fundamentals
+- Mongoose practice
+- Database-backed web app examples
 
-## Tech Stack
+## Stack
 
-- Primary language: JavaScript
-- Topics: database, javascript, mongodb
-
-## Repository Structure
-
-- Top-level folders: day39(mongoose), day40(Mongo with Express), day49(middleWare)
-- Top-level files: No top-level files detected.
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- MongoDB
+- JavaScript
+- Node.js
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add an example schema/query index
+- Document how to run local MongoDB
+- Add sample data only
 
 ## Author
 
